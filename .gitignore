@@ -1,0 +1,57 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+*.whl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Selenium / automation outputs
+screenshots/
+downloads/
+
+# Reports / generated files
+reports/
+exports/
+
+# Data outputs
+*.csv
+*.xlsx
+*.json
+
+# Temporary files
+tmp/
+temp/
+*.tmp
